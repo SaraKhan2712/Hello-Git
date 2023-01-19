@@ -14,5 +14,6 @@ useful Link [Github Learning](https://docs.github.com/en/get-started/quickstart/
 *updating the Readme file*
 > The purpose of this is to 
 - [x] edit the file, 
-- [ ] commit and
+- [x] commit and
 - [ ] push the changes to main
+- [ ] delete the branch
